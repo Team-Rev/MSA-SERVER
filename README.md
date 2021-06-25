@@ -32,3 +32,6 @@ OnePass는 AI기반의 문제 풀이 추천 서비스입니다. <br/>
     * GitHub 링크 : <https://github.com/Team-Rev/Deep-Learning-NLP>
     
 8. 형상관리 : Git과 Github를 이용해서 관리
+
+# MSA SERVER 상세
+Eureka Server를 이용해서 Eureka Client들을 관리
