@@ -3,7 +3,6 @@ OnePass는 AI기반의 문제 풀이 추천 서비스입니다. <br/>
 사용자의 문제 풀이 기록을 분석해서 취약한 부분과 그와 관련된 문제를 사용자에게 제공하는 것이 핵심 서비스입니다.<br/>
 
 # 설계 구조
-OnePass는 웹과 모바일을 통해 사용자에게 서비스를 제공합니다.
 
 1. 모바일 : 플러터를 사용해서 개발.
     * GitHub 링크 : <https://github.com/Team-Rev/flutter-mobile>
@@ -24,7 +23,8 @@ OnePass는 웹과 모바일을 통해 사용자에게 서비스를 제공합니�
     * GitHub 링크 : <https://github.com/Team-Rev/CI-CD>
     
 5. 데이터베이스 : MS office의 Access를 이용해서 모델링. AWS의 RDS에 MariaDB를 설치하여 사용<br/>
-<img src="./modeling.png" width="450px" height="300px" title="데이터 모델링 이미지" alt="modeling"></img><br/>
+    * 모델링 이미지 ![modeling](./modeling.png "데이터 모델링 이미지")
+
 6. 데이터크롤링 : 파이선의 Selenium을 이용해서 데이터 크롤링
     * GitHub 링크 : <https://github.com/Team-Rev/data-crawling>
 
