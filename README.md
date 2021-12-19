@@ -2,7 +2,7 @@
 OnePass는 AI기반의 문제 풀이 추천 서비스입니다. <br/>
 사용자의 문제 풀이 기록을 분석해서 취약한 부분과 그와 관련된 문제를 사용자에게 제공하는 것이 핵심 서비스입니다.<br/>
 
-![poster](https://user-images.githubusercontent.com/46162801/146664240-2fbfc534-fb60-4149-9aa9-751193d4b617.jpg)
+<img src="https://user-images.githubusercontent.com/46162801/146664240-2fbfc534-fb60-4149-9aa9-751193d4b617.jpg"  width="30%"/>
 
 # 설계 구조
 
